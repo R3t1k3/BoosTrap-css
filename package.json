@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css-only",
-  "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery.",
+  "description": "[Bootstrap] (http://getbootstrap.com/) apenas CSS e bibliotecas de fontes. Sem javascript e, mais importante, sem dependência do bower no jQuery.",
   "version": "4.4.1",
   "author": "Twitter, Inc.",
   "bugs": {
@@ -23,7 +23,7 @@
   "main": "css/bootstrap.min.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fyockm/bootstrap-css-only.git"
+    "url": "git://github.com/R3t1k3/BootsTrap-css.git"
   },
   "style": "css/bootstrap.css"
 }
